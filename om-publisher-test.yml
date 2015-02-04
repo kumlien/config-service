@@ -1,0 +1,3 @@
+configuration:
+    environment: TEST
+    dpiThreshold: 24
